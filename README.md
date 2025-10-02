@@ -1,11 +1,4 @@
-Harika! GitHub profilinizi profesyonel bir şekilde sergilemek için İngilizce, etkileyici bir README taslağı hazırladım.
-
-Bu taslağı, oluşturduğunuz özel GitHub profil deponuzdaki (Kullanıcı_Adınız/README.md) dosyanın içine yapıştırabilirsiniz. Köşeli parantez içindeki yerleri kendi bilgilerinizle değiştirmeyi unutmayın.
-
-The Professional GitHub Profile README Template
-Markdown
-
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Burak Can]! 👋
 
 ## Full-Stack Developer | Web & Game Development Enthusiast
 
@@ -19,11 +12,11 @@ I possess a strong skill set in both front-end and back-end development, allowin
 
 | Category | Skills |
 | :--- | :--- |
-| **Frontend** | HTML5, CSS3, JavaScript (ES6+), [Add Frameworks like React, Vue, or Angular if applicable] |
-| **Styling** | **CSS3** (Advanced), Modern Layouts (Flexbox, Grid), SASS/LESS, [Add CSS Frameworks like Tailwind or Bootstrap if applicable] |
-| **Scripting** | **JavaScript** (Expert Proficiency), Node.js, [Add other backend languages if applicable] |
-| **Game Dev/Scripting** | **Lua** (High Proficiency for scripting and modding, e.g., in Roblox or gmod) |
-| **Other** | Git/GitHub, REST APIs, [Add Database skills like MySQL, MongoDB if applicable] |
+| **Frontend** | HTML5, CSS3, JavaScript (ES6+)|
+| **Styling** | **CSS3** (Advanced), Modern Layouts (Flexbox, Grid)|
+| **Scripting** | **JavaScript** (Expert Proficiency), Node.js |
+| **Game Dev/Scripting** | **Lua**  |
+| **Other** | Git/GitHub, REST APIs,  |
 
 ---
 
@@ -41,9 +34,9 @@ Here are a few areas I've recently focused on:
 
 | Platform | Link |
 | :--- | :--- |
-| **LinkedIn** | [Your LinkedIn Profile URL] |
-| **Portfolio/Website** | [Your Personal Website or Portfolio URL] |
-| **Email** | [Your Professional Email Address] |
+| **LinkedIn** | ... |
+| **Portfolio/Website** | ... |
+| **Email** | ... |
 
 ---
 
