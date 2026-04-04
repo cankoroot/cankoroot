@@ -1,3 +1,12 @@
+<table>
+<tr>
+<td width="400">
+
+<img src="https://github.com/user-attachments/assets/29273371-5fad-4d9b-87b6-1e3286bfdfbf" width="280"/>
+
+</td>
+<td>
+
 Burak Can Yaldız 👋
 Front-End Developer | Full-Stack Web Development Candidate
 
@@ -19,5 +28,3 @@ Version Control with Git and GitHub
 API Integrations (Axios)
 
 Deployment Processes with Vercel and Vite
-
-![chrollo](https://github.com/user-attachments/assets/7a7011b2-034d-4e5e-9cf8-24dafbb48f93)
