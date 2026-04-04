@@ -1,10 +1,24 @@
-Hi, I'm Burak Can 👋  
-I'm a front-end web developer focused on building modern, responsive, and user-friendly websites.
+Burak Can Yaldız 👋
+Front-End Developer | Full-Stack Web Development Candidate
 
-I specialize in creating landing pages, corporate websites, and custom UI-focused projects using clean and maintainable code.  
-My goal is to deliver fast, visually strong, and scalable web solutions.
+I am a front-end software developer focused on developing modern, responsive, and user-centric websites. I design corporate websites, landing pages, and user experience-focused projects with clean, sustainable, and scalable code principles.
 
-### Core Technologies
-- HTML5 (Semantic, accessible layouts)
-- CSS3 (Flexbox, Grid, responsive design, animations)
-- JavaScript (ES6+, DOM, API integration)
+While continuing my education at Sakarya University of Applied Sciences, I am expanding my skills to provide end-to-end solutions.
+
+Technical Skills
+
+Front-End Development
+HTML5 and Semantic Structures
+CSS3 (Flexbox, Grid, Animations and Responsive Design)
+JavaScript (ES6+, DOM Manipulation)
+React and Next.js
+
+Tools and Technologies
+
+Version Control with Git and GitHub
+API Integrations (Axios)
+
+Deployment Processes with Vercel and Vite
+
+![chrollo](https://github.com/user-attachments/assets/7a7011b2-034d-4e5e-9cf8-24dafbb48f93)
+
