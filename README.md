@@ -14,13 +14,17 @@ While continuing my education at Sakarya University of Applied Sciences, I am ex
 Technical Skills
 
 Front-End Development
+
 HTML5 and Semantic Structures
+
 CSS3 (Flexbox, Grid, Animations and Responsive Design)
+
 JavaScript (ES6+, DOM Manipulation)
+
 React and Next.js
 
 Tools and Technologies
 
-Version Control with Git and GitHub
-API Integrations (Axios)
+Version Control with Git and GitHub 
+API Integrations (Axios) 
 Deployment Processes with Vercel and Vite
