@@ -5,12 +5,12 @@
 </td>
 <td>
 
-Burak Can Yaldız 👋
+<h1 style={{textShadow:'#ffffff 0px 0px 30px'}}>Burak Can Yaldız 👋</h1> 
 Front-End Developer | Full-Stack Web Development Candidate
 
-I am a front-end software developer focused on developing modern, responsive, and user-centric websites. I design corporate websites, landing pages, and user experience-focused projects with clean, sustainable, and scalable code principles.
-While continuing my education at Sakarya University of Applied Sciences, I am expanding my skills to provide end-to-end solutions.
+<p>I am a front-end software developer focused on developing modern, responsive, and user-centric websites. I design corporate websites, landing pages, and user experience-focused projects with clean, sustainable, and scalable code principles.
+While continuing my education at Sakarya University of Applied Sciences, I am expanding my skills to provide end-to-end solutions.</p>
 
-Techstack
+<h3>Techstack</h3>
 
-HTML5, CSS3, JAVASCRIPT, REACT, NEXT.JS, NODE.JS, POSTGRESQL
+<p>HTML5, CSS3, JAVASCRIPT, REACT, NEXT.JS, NODE.JS, POSTGRESQL</p>
