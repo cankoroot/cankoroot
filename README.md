@@ -13,4 +13,4 @@ While continuing my education at Sakarya University of Applied Sciences, I am ex
 
 <h3>Techstack</h3>
 
-<p>HTML5, CSS3, JAVASCRIPT, REACT, NEXT.JS, NODE.JS, POSTGRESQL</p>
+<p>HTML5, CSS3, JAVASCRIPT, REACT, REDUX TOOLKIT, NEXT.JS, NODE.JS, POSTGRESQL</p>
