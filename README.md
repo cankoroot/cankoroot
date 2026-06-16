@@ -5,11 +5,39 @@
 </td>
 <td>
 
-<h1 style={{textShadow:'#ffffff 0px 0px 30px'}}>Burak Can Yaldız 👋</h1> 
+<h1 style={{textShadow:'#ffffff 0px 0px 30px'}}>Hi, i am cankoroot 👋</h1> 
 Front-End Developer | Full-Stack Web Developer Candidate
 
-<p>I am a front-end software developer focused on developing modern, responsive, and user-centric websites. I design corporate websites, landing pages, and user experience-focused projects with clean, sustainable, and scalable code principles.
-While continuing my education at Sakarya University of Applied Sciences, I am expanding my skills to provide end-to-end solutions.</p>
+# # 👋 I'm Xaynx
+
+### 🌐 Languages & Technologies
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,cs,java,py,lua,git,cpp" />
+  </a>
+</p>
+
+### 💻 Editors & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,unity" />
+  </a>
+</p>
+
+### 🗄️ Database & Cloud
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase" />
+  </a>
+</p>
+
+### 🎨 Design & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps,ai,,figma,git,github" />
+  </a>
+</p>
+</p>
 
 <h3>Techstack</h3>
 
@@ -19,5 +47,4 @@ While continuing my education at Sakarya University of Applied Sciences, I am ex
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
