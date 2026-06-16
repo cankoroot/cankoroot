@@ -11,7 +11,7 @@ Front-End Developer | Full-Stack Web Developer Candidate
 ### 🌐 Languages & Technologies
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,cs,py,lua,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,cs,py,lua" />
   </a>
 </p>
 
