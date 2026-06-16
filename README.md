@@ -5,10 +5,8 @@
 </td>
 <td>
 
-<h1 style={{textShadow:'#ffffff 0px 0px 30px'}}>Hi, i am cankoroot 👋</h1> 
+## 👋 I'm Cankoroot
 Front-End Developer | Full-Stack Web Developer Candidate
-
-# # 👋 I'm Xaynx
 
 ### 🌐 Languages & Technologies
 <p align="left">
