@@ -18,7 +18,7 @@ Front-End Developer | Full-Stack Web Developer Candidate
 ### 💻 Editors & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,unity" />
+    <img src="https://skillicons.dev/icons?i=vscode,unity,git,github" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@ Front-End Developer | Full-Stack Web Developer Candidate
 ### 🎨 Design & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,figma,git,github" />
+    <img src="https://skillicons.dev/icons?i=ps,figma" />
   </a>
 </p>
 </p>
